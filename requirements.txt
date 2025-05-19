@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+tensorflow
+pydantic
+requests
+gdown
+python-multipart
+h5py
+pyyaml
+pydantic
+requests
+keras
