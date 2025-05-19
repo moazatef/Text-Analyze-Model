@@ -1,12 +1,10 @@
 fastapi
 uvicorn
 tensorflow-cpu
+keras
+h5py
 pydantic
 requests
 gdown
 python-multipart
-h5py
 pyyaml
-pydantic
-requests
-keras
